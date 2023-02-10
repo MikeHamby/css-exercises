@@ -1,18 +1,20 @@
-/* style.css */
 
-.class1,
-.class2 {
-
+.class-1 {
+    background-color: rgb(255, 167, 167);
+    font-family: Verdana, DejaVu Sans, sans-serif;
 }
 
-class2 {
-    
+.adjust-font-size {
+    font-size: 24px;
 }
 
-#id1,#id2 {
-
+#id-2 {
+    color: rgb(23, 23, 207); 
+    font-size: 36px;
 }
 
-#id2 {
-
+#id-4 {
+    background-color: hsl(120, 100%,75%);
+    font-size: 24px;
+    font-weight: bold;
 }
